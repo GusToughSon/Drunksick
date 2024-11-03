@@ -1,0 +1,23 @@
+module programs.all;
+
+import pathfinder;
+import programs.cook;
+import programs.eater;
+import programs.planter;
+import programs.planter2;
+import programs.plantharvest;
+import programs.weaver;
+import programs.mixer;
+import programs.eggcollector;
+import programs.lumberjack;
+import programs.miller;
+import programs.carpenter;
+import programs.miner;
+import programs.smelter;
+import programs.smith;
+import programs.fisher;
+import programs.goldprinter;
+import programs.barrelpaint;
+import programs.graball;
+import programs.test;
+//import programs.testbp;
